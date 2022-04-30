@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **JavaFX , JS , Python , Java**
 
+- 📫 How to reach me **jonatanjr-2017@outlook.es**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
